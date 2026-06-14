@@ -1,7 +1,7 @@
 {
   "name": "h2tunnel-provenance-test",
   "description": "Zero-dependency remote port forwarding (TCP over HTTP/2)",
-  "version": "0.4.2-test.2",
+  "version": "0.4.2-test.3",
   "type": "module",
   "license": "MIT",
   "homepage": "https://github.com/boronine-bot/h2tunnel#readme",
