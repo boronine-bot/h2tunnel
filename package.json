@@ -1,10 +1,10 @@
 {
-  "name": "h2tunnel",
+  "name": "h2tunnel-provenance-test",
   "description": "Zero-dependency remote port forwarding (TCP over HTTP/2)",
   "version": "0.4.1",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/boronine/h2tunnel#readme",
+  "homepage": "https://github.com/boronine-bot/h2tunnel#readme",
   "keywords": [
     "tls",
     "http2",
@@ -19,7 +19,7 @@
     "url": "https://www.boronine.com"
   },
   "bugs": {
-    "url": "https://github.com/boronine/h2tunnel/issues"
+    "url": "https://github.com/boronine-bot/h2tunnel/issues"
   },
   "devDependencies": {
     "@types/node": "^22.13.1",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boronine/h2tunnel.git"
+    "url": "git+https://github.com/boronine-bot/h2tunnel.git"
   },
   "exports": {
     ".": {
